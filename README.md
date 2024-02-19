@@ -27,12 +27,12 @@ git push -u origin main
 Set branch to main and save 
 
 
-# Optional Below - (If you want to collect and send emails)
+# Optional - (If you want to collect and send emails)
 
-## Step #4 - Signup for [Rewrite.blog](https://rewrite.blog/)
+## Step #4 (optional) - Signup for [Rewrite.blog](https://rewrite.blog/)
 
 
-## Step #5 - Add Rewrite.blog to collect emails
+## Step #5 (optional) - Add Rewrite.blog to collect emails
 ##### Rewrite script is already in the template but you will just need to replace the ID value here: <input hidden name="id" type="text" value="YOUR_ID_HERE" required />
 
 Full Code Example:
