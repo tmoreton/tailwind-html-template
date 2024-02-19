@@ -26,6 +26,9 @@ git push -u origin main
 ##### Navigate to https://github.com/tmoreton/YOUR-REPOSITORY-NAME-HERE/settings/pages
 Set branch to main and save 
 
+
+# Optional Below - (If you want to collect and send emails)
+
 ## Step #4 - Signup for [Rewrite.blog](https://rewrite.blog/)
 
 
