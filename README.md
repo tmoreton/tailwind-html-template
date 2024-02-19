@@ -1,11 +1,11 @@
-### Add Rewrite.blog to collect emails
+# Step 1
+### [Download Template](https://github.com/tmoreton/TailwindHTMLTemplate/archive/refs/heads/main.zip)
 
-```
-curl https://github.com/tmoreton/TailwindHTMLTemplate.git
-```
+# Step 2
 
-Check out the live site [HERE](http://tmoreton.github.io/TailwindHTMLTemplate)
+# Step 3
 
+# Step 4
 ### Add Rewrite.blog to collect emails
 ```
 <form action="https://rewrite.blog/notion/subscribe" method="post">
@@ -17,3 +17,6 @@ Check out the live site [HERE](http://tmoreton.github.io/TailwindHTMLTemplate)
 <input type="submit" value="Subscribe" />
 </form>
 ```
+
+# Step 5
+### [It's Live](http://tmoreton.github.io/TailwindHTMLTemplate)
