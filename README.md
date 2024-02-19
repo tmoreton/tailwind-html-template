@@ -1,11 +1,14 @@
-# Step 1
-### [Download Template](https://github.com/tmoreton/TailwindHTMLTemplate/archive/refs/heads/main.zip)
+# Tailwind HTML Landing Page Template
+![LandingPage](/example.png)
 
-# Step 2
+## Step #1 - Download Template
+### [HERE](https://github.com/tmoreton/TailwindHTMLTemplate/archive/refs/heads/main.zip)
 
-# Step 3
+## Step #2
 
-# Step 4
+## Step #3
+
+## Step #4
 ### Add Rewrite.blog to collect emails
 ```
 <form action="https://rewrite.blog/notion/subscribe" method="post">
@@ -18,5 +21,5 @@
 </form>
 ```
 
-# Step 5
-### [It's Live](http://tmoreton.github.io/TailwindHTMLTemplate)
+## Step #5
+### [It's Live](https://tmoreton.github.io/tailwind-html-template)
