@@ -1,5 +1,5 @@
 # Tailwind HTML Landing Page Template
-![LandingPage](/example.png)
+![LandingPage](/images/example.png)
 
 
 ## Step #1 - Download Template
@@ -9,7 +9,7 @@
 ## Step #2 - Create Github repo with Website Name
 ###### Make sure your repository is set to PUBLIC
 
-![Create Github Repository](/github-repo.png)
+![Create Github Repository](/images/github-repo.png)
 ```
 git init
 git add README.md
@@ -21,7 +21,7 @@ git push -u origin main
 
 
 ## Step #3 - Activate Github pages
-![Create Github Repository](/github-pages.png)
+![Create Github Repository](/images/github-pages.png)
 
 ##### Navigate to https://github.com/tmoreton/YOUR-REPOSITORY-NAME-HERE/settings/pages
 Set branch to main and save 
