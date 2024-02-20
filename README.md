@@ -1,10 +1,11 @@
 # Tailwind HTML Landing Page Template
 ![LandingPage](/images/example.png)
 
+# Getting Started Tutorial
+[![Tailwind + Github Pages + Stripe + Rewrite.blog in under 10 minutesHERE](https://img.youtube.com/vi/ooFFdbx0JXk/0.jpg)](https://www.youtube.com/watch?v=ooFFdbx0JXk)
 
 ## Step #1 - Download Template
 ### [HERE](https://github.com/tmoreton/tailwind-html-template/archive/refs/heads/main.zip)
-
 
 ## Step #2 - Create Github repo with Website Name
 ###### Make sure your repository is set to PUBLIC
