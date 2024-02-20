@@ -20,7 +20,7 @@
             <form action="https://rewrite.blog/notion/subscribe" method="post" class="mx-auto flex max-w-md gap-x-4">
               <!-- <input name="name" type="text" /> -->
               <input name="email" type="email" required autocomplete="email" class="min-w-0 flex-auto rounded-md border-0 px-3.5 py-2 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-pink-600 sm:text-sm sm:leading-6" placeholder="Enter your email"/>
-              <input hidden name="id" type="text" value="clsndowgo0000q2xtv0wwneaz" required />
+              <input hidden name="id" type="text" value="clseunr030000ev9i9iosrgh8" required />
               <input hidden name="rewrite" type="text" />
               <input hidden name="success_url" type="text" value="https://tmoreton.github.io/tailwind-html-template" required />
               <input type="submit" value="Subscribe" class="flex-none rounded-md bg-pink-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-pink-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white"/>
@@ -103,7 +103,12 @@
       </div>
       
       <!-- Pricing Section -->
-      <div class="bg-white py-24 sm:py-32">
+      <script async src="https://js.stripe.com/v3/pricing-table.js"></script>
+      <stripe-pricing-table pricing-table-id="prctbl_1OlhTNHE81vG1hlcVWMELBtY"
+      publishable-key="pk_test_51OlMLRHE81vG1hlcBZYZgWvuMMTXjmY0Zonj3eNqMM5WIpCeaywYyDzCrCYI1vqxGZ3yeEAScW7l3bF7rgTOn2Sn00s8HvcN3q">
+      </stripe-pricing-table>
+      
+      <!-- <div class="bg-white py-24 sm:py-32">
         <div class="mx-auto max-w-7xl px-6 lg:px-8">
           <div class="mx-auto max-w-4xl sm:text-center">
             <h2 class="text-base font-semibold leading-7 text-pink-600">Pricing</h2>
@@ -241,7 +246,7 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
       
       <!-- Email Form -->
       <div class="bg-white py-16 sm:py-24">
@@ -251,7 +256,7 @@
             <form action="https://rewrite.blog/notion/subscribe" method="post" class="mx-auto flex max-w-md gap-x-4">
               <!-- <input name="name" type="text" /> -->
               <input name="email" type="email" required autocomplete="email" class="min-w-0 flex-auto rounded-md border-0 px-3.5 py-2 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-pink-600 sm:text-sm sm:leading-6" placeholder="Enter your email"/>
-              <input hidden name="id" type="text" value="clsndowgo0000q2xtv0wwneaz" required />
+              <input hidden name="id" type="text" value="clseunr030000ev9i9iosrgh8" required />
               <input hidden name="rewrite" type="text" />
               <input hidden name="success_url" type="text" value="https://tmoreton.github.io/tailwind-html-template" required />
               <input type="submit" value="Subscribe" class="flex-none rounded-md bg-white px-3.5 py-2.5 text-sm font-semibold text-pink-600 shadow-sm focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white"/>
