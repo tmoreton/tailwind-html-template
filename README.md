@@ -1,5 +1,5 @@
 # Tailwind HTML Landing Page Template
-![LandingPage](/images/example.png)
+![LandingPage](/images/example.gif)
 
 # Getting Started Tutorial
 [![Tailwind + Github Pages + Stripe + Rewrite.blog in under 10 minutesHERE](https://img.youtube.com/vi/ooFFdbx0JXk/0.jpg)](https://www.youtube.com/watch?v=ooFFdbx0JXk)
